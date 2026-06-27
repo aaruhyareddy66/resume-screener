@@ -1,0 +1,11 @@
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+model.pkl
+tfidf.pkl
+ResumeData.csv
+frontend/build/
+*.pkl
+.DS_Store
