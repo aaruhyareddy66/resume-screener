@@ -4,7 +4,7 @@ venv/
 __pycache__/
 *.pyc
 
-ResumeData.csv
+
 frontend/build/
 *.pkl
 .DS_Store
