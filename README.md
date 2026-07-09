@@ -93,7 +93,6 @@ npm start
 ```
 
 ---
-
 ## Project Structure
 resume-screener/
 
